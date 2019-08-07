@@ -1,0 +1,9 @@
+server:
+  port: 8090
+eureka:
+  client:
+    service-url:
+      deafultZone: http://locahost:8761/eureka
+spring:
+  application:
+    name: configclient
