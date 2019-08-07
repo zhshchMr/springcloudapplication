@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="svn" />
+    <mapping directory="" vcs="Git" />
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
-    <mapping directory="$PROJECT_DIR$/configclient" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/configserver" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/zipkin" vcs="svn" />
-    <mapping directory="$PROJECT_DIR$/zipkinclient" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/configclient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/configserver" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zipkin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/zipkinclient" vcs="Git" />
   </component>
 </project>
