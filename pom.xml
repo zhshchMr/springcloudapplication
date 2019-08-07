@@ -88,6 +88,10 @@
         <module>configserver</module>
         <module>configserver</module>
         <module>configservergithub</module>
+        <module>configserver</module>
+        <module>configserver</module>
+        <module>zipkin</module>
+        <module>zipkinclient</module>
     </modules>
 
 

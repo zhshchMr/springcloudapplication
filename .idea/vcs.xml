@@ -5,5 +5,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/configclient" vcs="svn" />
     <mapping directory="$PROJECT_DIR$/configserver" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/zipkin" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/zipkinclient" vcs="svn" />
   </component>
 </project>

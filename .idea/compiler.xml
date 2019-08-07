@@ -18,6 +18,8 @@
         <module name="nativeconfigserver" />
         <module name="resttmeplate" />
         <module name="ribbon" />
+        <module name="zipkin" />
+        <module name="zipkinclient" />
         <module name="zuul" />
       </profile>
     </annotationProcessing>
@@ -35,6 +37,8 @@
       <module name="resttmeplate" target="1.8" />
       <module name="ribbon" target="1.8" />
       <module name="springcloudapplication" target="1.8" />
+      <module name="zipkin" target="1.8" />
+      <module name="zipkinclient" target="1.8" />
       <module name="zuul" target="1.8" />
     </bytecodeTargetLevel>
   </component>
